@@ -1,3 +1,9 @@
 EU5 is learning git and github
 
 keep working
+
+EU5 like short videos
+
+Now I already published my local repo to github.com, the connection created
+
+form this point we will just push local commits to remote repo
